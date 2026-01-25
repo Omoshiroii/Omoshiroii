@@ -3,10 +3,8 @@
 </a>
 <h1 align="center">💫 About Me 🦇</h1>
 
-<p align="center"><strong>Hi — I’m taha. Computer Science & Networks Engineering student — tech enthusiast and aspiring Data Analyst.</strong></p>
-
 ```js
-// Profile object for fun — displayed as code
+// Hi — I’m taha. Computer Science & Networks Engineering student — tech enthusiast and aspiring Data Analyst.
 const Omoshiroii = {
   name: "Taha",
   location: "Morocco 🇲🇦",
