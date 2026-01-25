@@ -1,17 +1,9 @@
-# <h1 align="center">💫 About Me 🦇</h1>
-
-<p align="center"><strong>Hi — I’m taha. Computer Science & Networks Engineering student — tech enthusiast and aspiring Data Analyst.</strong></p>
-
 <a href="#">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=header" />
 </a>
-<a href="#">
-  <img width=100%
-       src="https://capsule-render.vercel.app/api?type=shiny&color=764abc&height=140&section=header" />
-</a>
-<img src="https://img.shields.io/badge/JavaScript-ES6-f0db4f?style=flat" />
-<img src="https://img.shields.io/badge/React-✨-blue?style=flat" />
+# <h1 align="center">💫 About Me 🦇</h1>
 
+<p align="center"><strong>Hi — I’m taha. Computer Science & Networks Engineering student — tech enthusiast and aspiring Data Analyst.</strong></p>
 
 ```js
 // Profile object for fun — displayed as code
