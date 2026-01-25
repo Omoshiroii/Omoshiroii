@@ -2,6 +2,11 @@
 
 <p align="center"><strong>Hi — I’m taha. Computer Science & Networks Engineering student — tech enthusiast and aspiring Data Analyst.</strong></p>
 
+<a href="#">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=header" />
+</a>
+
+
 ```js
 // Profile object for fun — displayed as code
 const Omoshiroii = {
