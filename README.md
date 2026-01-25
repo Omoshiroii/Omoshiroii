@@ -5,6 +5,12 @@
 <a href="#">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=header" />
 </a>
+<a href="#">
+  <img width=100%
+       src="https://capsule-render.vercel.app/api?type=shiny&color=764abc&height=140&section=header" />
+</a>
+<img src="https://img.shields.io/badge/JavaScript-ES6-f0db4f?style=flat" />
+<img src="https://img.shields.io/badge/React-✨-blue?style=flat" />
 
 
 ```js
