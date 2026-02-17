@@ -12,6 +12,7 @@ const Omoshiroii = {
   currentFocus: [
     "My studies (yeah, actually)",
     "Computer science fundamentals",
+    "AI and latest technologies",
     "Networks, systems, coding and how things work"
   ],
   interests: [
@@ -20,7 +21,7 @@ const Omoshiroii = {
     "Self-Development"
     "Tech"
   ],
-  mindset: "Quiet grind. No rush. No noise.",
+  mindset: "Quiet actions. Big impact",
   motto: "Slow progress is still progress. Consistency beats motivation."
 };
 ```
