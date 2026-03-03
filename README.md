@@ -1,5 +1,5 @@
 <a href="#">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Welcome&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8871e8,100:b678c4&height=200&text=Your%20Name&fontSize=70" />
 </a>
 
 ```js
