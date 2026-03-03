@@ -21,8 +21,14 @@ const Omoshiroii = {
     "Self-Development"
     "Tech"
   ],
-  mindset: "Quiet actions. Big impact",
-  motto: "Slow progress is still progress. Consistency beats motivation."
+  mindset: "while(curious)
+                question everything();
+                dig_deeper();
+                connect_dots(unexpected);
+            if(stuck){
+                keep_thinking();
+            }",
+  motto: "whatever doesn't kill you simply makes you stranger"
 };
 ```
 
