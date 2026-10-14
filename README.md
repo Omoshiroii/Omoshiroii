@@ -3,10 +3,10 @@
 </a>
 
 ```js
-// Hi — I’m taha. Computer Science & Networks Engineering student — tech enthusiast and aspiring Data Analyst.
+// Hi — I’m a Computer Science & Networks Engineering student — tech enthusiast and future legend.
 const Omoshiroii = {
-  name: "Taha",
-  location: "Morocco 🇲🇦",
+  name: "Unknown",
+  location: "Private",
   role: "Computer Science & Networks Engineering Student",
   status: "Full-Stack diplomate (still leveling up)",
   currentFocus: [
@@ -16,10 +16,12 @@ const Omoshiroii = {
     "Networks, systems, coding and how things work"
   ],
   interests: [
-    "Web Development",
-    "Big Data",
+    "FullStack Web Development",
+    "Data Pipelines",
+    "Cybersecurity",
+    "Linux",
+    "Game development",
     "Self-Development"
-    "Tech"
   ],
   mindset: "while(curious)
                 question everything();
@@ -28,7 +30,7 @@ const Omoshiroii = {
             if(stuck){
                 keep_thinking();
             }",
-  motto: "whatever doesn't kill you simply makes you stranger"
+  motto: "whatever doesn't kill you simply makes you stranger - Joker"
 };
 ```
 
