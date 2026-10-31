@@ -3,21 +3,20 @@
 </a>
 
 ```js
-// Hi — I’m a Computer Science & Networks Engineering student — tech enthusiast and future legend.
+// Hi — I’m a Computer Science & Networks Engineering student — tech enthusiast and curious student.
 const Omoshiroii = {
-  name: "Unknown",
-  location: "Private",
+  name: "Taha",
   role: "Computer Science & Networks Engineering Student",
-  status: "Full-Stack diplomate (still leveling up)",
+  status: "Student yet open for challenges",
   currentFocus: [
     "My studies (yeah, actually)",
     "Computer science fundamentals",
+    "Cybersecurity and networks infrastructure",
     "AI and latest technologies",
     "Networks, systems, coding and how things work"
   ],
   interests: [
     "FullStack Web Development",
-    "Data Pipelines",
     "Cybersecurity",
     "Linux",
     "Game development",
@@ -36,7 +35,6 @@ const Omoshiroii = {
 
 ##  Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/VNGu6ptX)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-zerrad-a9601a241/)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/user/Wide-Examination-232/)
 
 # Tech Stack:
@@ -49,10 +47,8 @@ const Omoshiroii = {
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
@@ -64,19 +60,10 @@ const Omoshiroii = {
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-
-# GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Omoshiroii&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Omoshiroii&theme=transparent&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omoshiroii&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Omoshiroii&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
